@@ -33,8 +33,6 @@ The dataset contains transactional records including:
 - Order Quantity  
 - Late Delivery Risk  
 
-After cleaning and removing irrelevant columns, the final dataset contains **53 analytical features**.
-
 ---
 
 ## 📊 Exploratory Data Analysis
